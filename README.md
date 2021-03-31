@@ -1,5 +1,5 @@
 # AzureML-BearingFailurePrediction
-Example AzureML Notebook that interfaces with Seeq to both provide data for training and validation as well as operationalizing the output. This notebook was created and shared for a webinar done with Seeq and Microsoft [Accelerate Operational Analytics](https://www.seeq.com/resources/webinars). 
+Example AzureML Notebook that interfaces with Seeq to both provide data for training and validation as well as operationalizing the output. This notebook was created and shared for a webinar done with Seeq and Microsoft [Accelerate Operational Analytics](https://info.seeq.com/microsoft-azure-webinar-download). 
 
 # Getting up and running
 
